@@ -9,7 +9,7 @@ import com.vaadin.annotations.Widgetset;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.server.VaadinServlet;
 import com.vaadin.tutorial.addressbook.backend.Contact;
-import com.vaadin.tutorial.addressbook.backend.ContactService;
+import com.vaadin.tutorial.addressbook.backend.ContactService
 import com.vaadin.ui.Button;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.UI;
