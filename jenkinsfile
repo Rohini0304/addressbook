@@ -11,7 +11,7 @@ stages {
                 sh 'mvn validate'
             }
         }
- stage('Code Compile') {
+        stage('Code Compile') {
             steps {
                 sh 'mvn compile'
             }
@@ -29,3 +29,4 @@ stages {
  
        
     }
+}
